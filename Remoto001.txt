@@ -1,0 +1,5 @@
+uni 
+escuela
+lineas 
+barras 
+tecnico 
