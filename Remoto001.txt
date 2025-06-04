@@ -3,3 +3,5 @@ escuela
 
 barras 
 tecnico 
+tec
+carros 
